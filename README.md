@@ -1,7 +1,7 @@
 # w3schools's templates using Bootstrap. 
 ----
 [**w3schools**](https://www.w3schools.com/w3css/w3css_templates.asp) Provides awesome templates under open license, the problem is these templates use **w3css** framework which actually is a nice one but not popular as [**Bootstrap**](https://www.getbootstrap.com) 
-D
+so That's what we are aiming for.
 
 ### Available Templates:
 [**portfolio**](http://alphadsy.github.io/w3schools-templates-using-Bootstrap)
