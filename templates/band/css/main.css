@@ -1,0 +1,31 @@
+/* links */
+a {color: inherit;text-decoration: none;}
+a:hover,a:focus {color: inherit;text-decoration: none;}
+
+/* padding */
+/* add 64px padding used in section to add top and bottom padding */
+.padding-64{padding-top:64px!important;padding-bottom:64px!important}
+/* add 32px top and bottom padding */
+.padding-32{padding-top:32px!important;padding-bottom:32px!important}
+
+/* carousel */
+/* set images to full width */
+.carousel .item img {width: 100%;} 
+
+/* thumbnail */
+/* set images to full width and Apply opacity on hover */
+.thumbnail {padding: 0px;border: 0px;}
+.thumbnail img:hover{opacity: 0.8} 
+
+/* background-color */
+.black{color:#fff!important;background-color:#000!important}
+.red{color:#fff!important;background-color:#f44336!important}
+
+/* text */
+.text-wide{letter-spacing:4px}
+.text-grey{color:#757575!important}
+.xlarge{font-size:24px!important}
+
+/* google Map */
+.google-map {height: 400px;width:100%;filter:grayscale(100%)}
+ 
