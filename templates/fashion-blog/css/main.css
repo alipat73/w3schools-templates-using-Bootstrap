@@ -1,0 +1,55 @@
+/* links */
+a {color: inherit;text-decoration: none;}
+a:hover,a:focus {color: inherit;text-decoration: none;}
+
+/* media object */
+.media-object{width: 64px}
+
+/* hover */
+.hover{opacity: 0.7}
+.hover:hover{opacity:1}
+
+ /* text */
+.large{font-size:18px!important}
+.xlarge{font-size:24px!important}
+.xxlarge{font-size:36px!important}
+.xxxlarge{font-size:48px!important}
+.jumbo{font-size:64px!important}
+
+.text-center{text-align:center!important}
+.text-justify{text-align:justify!important}
+
+/* align */
+.left{float:left!important}
+.right{float:right!important}
+
+/* padding */
+.padding{padding:8px 16px!important}
+.padding-large{padding:12px 24px!important}
+.padding-16{padding-top:16px!important;padding-bottom:16px!important}
+.padding-24{padding-top:24px!important;padding-bottom:24px!important}
+.padding-32{padding-top:32px!important;padding-bottom:32px!important}
+.padding-48{padding-top:48px!important;padding-bottom:48px!important}
+.padding-64{padding-top:64px!important;padding-bottom:64px!important}
+
+/* margin */
+.margin{margin:16px!important}
+.margin-top{margin-top:16px!important}
+.margin-bottom{margin-bottom:16px!important}
+.margin-left{margin-left:16px!important}
+.margin-right{margin-right:16px!important}
+
+/* colors */
+/* BG */
+.red,.hover-red:hover{color:#fff!important;background-color:#f44336!important}
+.white,.hover-white:hover{color:#000!important;background-color:#fff!important}
+.black,.hover-black:hover{color:#fff!important;background-color:#000!important}
+.grey,.hover-grey:hover,.gray,.hover-gray:hover{color:#000!important;background-color:#bbb!important}
+.light-grey,.hover-light-grey:hover,.light-gray,.hover-light-gray:hover{color:#000!important;background-color:#f1f1f1!important}
+.dark-grey,.hover-dark-grey:hover,.dark-gray,.hover-dark-gray:hover{color:#fff!important;background-color:#616161!important}
+/* text */
+.text-white{color:#fff!important}
+
+/* display image caption */
+.bg-img{position:relative}
+.caption-left{position:absolute;top:50%;left:0%;transform:translate(0%,-50%);-ms-transform:translate(-0%,-50%)}
